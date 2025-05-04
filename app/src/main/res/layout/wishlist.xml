@@ -14,17 +14,18 @@
         android:text="Item Name"
         android:textStyle="bold" />
 
-    <!-- Item price -->
+    <!-- Price -->
     <TextView
         android:id="@+id/itemPriceTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Price" />
 
-    <!-- Item URL -->
+    <!-- URL -->
     <TextView
         android:id="@+id/itemUrlTv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="URL" />
+
 </LinearLayout>
